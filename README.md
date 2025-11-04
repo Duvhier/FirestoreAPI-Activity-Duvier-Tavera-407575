@@ -1,6 +1,4 @@
 # FirestoreAPI-Activity-Duvier-Tavera-407575
-Perfecto 💪 Aquí tienes un **README.md** completo y bien estructurado para tu proyecto **ComposeAPIApp**, con una explicación clara del propósito, la arquitectura y cómo ejecutarlo:
-
 ---
 
 ## 🧩 ComposeAPIApp
